@@ -1,2 +1,2 @@
 # Simple-Greeting-System{}
-hello
+hello!
